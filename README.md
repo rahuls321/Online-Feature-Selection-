@@ -40,11 +40,11 @@ Here p(x) is the probability mass function
 ### Information Gain 
 Amount of which entropy of **a** decreases reflects the additional information about **a** provided by **T**.
 
-![IG] (http://l830524.weebly.com/uploads/7/4/0/3/74035531/4678421_orig.jpg)
+![IG](http://l830524.weebly.com/uploads/7/4/0/3/74035531/4678421_orig.jpg)
 
 Amount of information gained about **a** after observing **T** is equal to amount of information gained about **T** after observing **a**.
 
 ### Symmetrical Uncertainity
 Correlation measure between two variables (i.e two features) is given by 
 
-![this formula] (https://raw.githubusercontent.com/rahuls321/Online-Feature-Selection-/master/su.png)
+![this formula](https://raw.githubusercontent.com/rahuls321/Online-Feature-Selection-/master/su.png)
